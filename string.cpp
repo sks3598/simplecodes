@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 string answerQuestion(string q)
 {
 	string a;
@@ -8,5 +10,10 @@ string answerQuestion(string q)
 		a = "You forgot the magic word!";
 	}
 	return a;
+}
+int main()
+{
+	cout<<answer("hi")<<endl;
+	return 0;
 }
     
