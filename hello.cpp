@@ -1,9 +1,9 @@
 #iclude<bits/stdc++.h>
-using namespace std
+using namespace std;
 
 int main()
 {
 cout<<"hello World";
-cout<<endl
+cout<<endl;
 return 0;
 }
